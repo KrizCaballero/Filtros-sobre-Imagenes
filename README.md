@@ -1,6 +1,4 @@
 # Filtro sobre Imágenes
-Aplicación de modelos de redes neuronales recurrentes (RNN) para el Diplomado de Ciencias de Datos Primavera 2025.
-
 
 ## Base de datos
 El repocitorio de imagnes usado se puede econtran en la pagina [Radiografías de tórax (COVID-19 vs. normal vs. neumonía).](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
